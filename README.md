@@ -21,11 +21,11 @@ SCF CLI 通过一个函数模板配置文件，完成函数及相关周边资源
 
 SCF CLI 可以在 Windows、Linux、macOS 上运行。SCF CLI 基于 Python 开发完成，因此在安装及运行前需要系统中安装有 Python 环境，更多详细信息可参见 [安装与配置](https://cloud.tencent.com/document/product/583/33449)。
 
-## 快速入门
+## 开始使用
 
 您可以前往腾讯云官网查看 [SCF 快速入门](https://cloud.tencent.com/document/product/583/33446)
 
-## 使用指导
+#### 使用指导
 
 *   [安装与配置](https://cloud.tencent.com/document/product/583/33449)
 *   [初始化示例项目](https://cloud.tencent.com/document/product/583/33450)
