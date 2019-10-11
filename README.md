@@ -41,7 +41,7 @@ SCF CLI 可以在 Windows、Linux、macOS 上运行。SCF CLI 基于 Python 开�
 
 ## 系列文章 - 玩转 Serverless 
 
-### Serverless 技术专栏
+#### Serverless 技术专栏
 
 - [Serverless 基本概念入门](https://zhuanlan.zhihu.com/p/78250791)
 - [Serverless 的运行原理与组件架构](https://zhuanlan.zhihu.com/p/79214097)
@@ -54,7 +54,7 @@ SCF CLI 可以在 Windows、Linux、macOS 上运行。SCF CLI 基于 Python 开�
 - [前端学 Serverless - 从开发调试到部署运维，一套完整的 Serverless 项目经验分享](https://cloud.tencent.com/developer/article/1464383)
 - [前端学 Serverless - WebApplication 迁移实践](https://cloud.tencent.com/developer/article/1481095)
 
-### Serverless 实践系列
+#### Serverless 实践系列
 
 - [Serverless 最佳实践：如何在两周内开发出用户量过亿的微信小程序](https://cloud.tencent.com/developer/article/1454651)
 - [「实践」如何通过 Serverless 与自然语言处理，让搜索引擎“看”到你的博客](https://zhuanlan.zhihu.com/p/78336933)
@@ -74,7 +74,7 @@ SCF CLI 可以在 Windows、Linux、macOS 上运行。SCF CLI 基于 Python 开�
 - [云函数 + TypeScript + Node.js 最佳实践探索](https://cloud.tencent.com/developer/article/1483690)
 - [基于 Node.js 的轻量级云函数功能实现](https://cloud.tencent.com/developer/article/1486296)
 
-### User stories
+#### User stories
 
 - [基于「树莓派 + 腾讯云」的在线甲醛监测系统](https://cloud.tencent.com/developer/article/1458238)
 - [API 网关技术最佳实践](https://cloud.tencent.com/developer/article/1467516)
@@ -83,7 +83,7 @@ SCF CLI 可以在 Windows、Linux、macOS 上运行。SCF CLI 基于 Python 开�
 - [经验小记 | 如何使用云函数 VS Code 插件来定位问题](https://cloud.tencent.com/developer/article/1498383)
 - [效率提升 50%！基于 Serverless 的视频云运营系统改造实践（上）](https://cloud.tencent.com/developer/article/1504249)
 
-### Presentations
+#### Presentations
 
 - [「2018 ArchSummit 全球架构师峰会」让业务感知不到服务器的存在 - 基于弹性计算的无服务器化实践](https://cloud.tencent.com/developer/article/1449789)
 - [「K8S 云原生上海站」蓝鲸 DevOps 方案在游戏中的实现](https://cloud.tencent.com/developer/article/1449788)
@@ -93,7 +93,7 @@ SCF CLI 可以在 Windows、Linux、macOS 上运行。SCF CLI 基于 Python 开�
 - [「KubeCon 2019」腾讯云函数计算冷启动优化实践](https://cloud.tencent.com/developer/article/1461709)
 - [「KubeCon 2019」腾讯云函数访问 VPC 网络架构优化](https://cloud.tencent.com/developer/article/1461707)
 
-### 发布平台
+#### 发布平台
 
 此处做归档，发布平台：
 - [知乎](https://zhuanlan.zhihu.com/ServerlessGo)
