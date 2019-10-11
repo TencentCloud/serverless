@@ -39,7 +39,7 @@ SCF CLI 可以在 Windows、Linux、macOS 上运行。SCF CLI 基于 Python 开�
 *   [更新日志](https://cloud.tencent.com/document/product/583/36908)
 *   [常见问题 FAQ](https://cloud.tencent.com/document/product/583/33456)
 
-## ▎玩转 Serverless
+## 玩转 Serverless 系列文章
 
 #### Serverless 技术专栏
 
@@ -93,3 +93,10 @@ SCF CLI 可以在 Windows、Linux、macOS 上运行。SCF CLI 基于 Python 开�
 - [「KubeCon 2019」腾讯云函数计算冷启动优化实践](https://cloud.tencent.com/developer/article/1461709)
 - [「KubeCon 2019」腾讯云函数访问 VPC 网络架构优化](https://cloud.tencent.com/developer/article/1461707)
 
+#### 发布平台
+
+此处做归档，发布平台：
+- [知乎](https://zhuanlan.zhihu.com/ServerlessGo)
+- [掘金](https://juejin.im/user/5d70b6dae51d4561fb04bfb9/posts)
+- [云＋社区](https://cloud.tencent.com/developer/user/1000057/articles)
+- 微信公众号：ServerlessCloudNative
