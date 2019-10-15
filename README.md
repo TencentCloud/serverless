@@ -2,23 +2,29 @@
 
 腾讯云 Severless 是腾讯云提供的安全稳定、管理简化、高效易用且低成本的无服务器产品平台。它通过多种 Serverless 产品组合，快速落地 Serverless 架构及应用，加速互联网和传统企业的业务迭代与升级，让您全面享受 Serverless 架构带来的弹性伸缩、秒级部署、按需付费、免运维等好处。 
 
+### [云函数 SCF](https://cloud.tencent.com/product/scf)
+
+云函数（Serverless Cloud Function，SCF）是腾讯云为企业和开发者们提供的无服务器执行环境，帮助您在无需购买和管理服务器的情况下运行代码。您只需使用平台支持的语言编写核心代码并设置代码运行的条件，即可在腾讯云基础设施上弹性、安全地运行代码。SCF 是实时文件处理和数据处理等场景下理想的计算平台。
+
+### [Serverless framework](https://github.com/serverless-tencent/serverless-tencent-cloudfunction)
+
+Serverless framework 是无服务器应用框架和生态系统，允许开发者将资源编排、自动伸缩、事件驱动等功能部署上云。该框架旨在简化开发和部署腾讯云函数的工作，而无需管理底层基础架构，帮助开发者通过优秀的 Serverless 计算服务迅速地构建应用。
+
 ## 开始使用
 
 #### 快速入门
 
-[云函数（Serverless Cloud Function，SCF）](https://cloud.tencent.com/product/scf)是腾讯云为企业和开发者们提供的无服务器执行环境，帮助您在无需购买和管理服务器的情况下运行代码。您可通过如下示例进一步熟悉云函数的使用流程：
+您可通过如下示例进一步熟悉云函数的使用流程：
 
 *   [基于控制台开发 Hello World Web 服务](https://cloud.tencent.com/document/product/583/37509)
 *   [基于 CLI 开发 Hello World Web 服务](https://cloud.tencent.com/document/product/583/37510)（推荐）
 *   [基于 VS Code 开发 Hello World Web 服务](https://cloud.tencent.com/document/product/583/37511)
 *   [基于控制台创建基于 Node.js Web 框架（Express、Koa、Egg）的服务型云函数快速入门](https://cloud.tencent.com/document/product/583/37278)
 
-#### 框架和工具
+#### 开发者工具
 
-腾讯云 Serverless 团队提供了丰富的工具和框架帮助您使用云函数：
+腾讯云 Serverless 团队提供了丰富的开发者工具帮助您使用云函数：
 
-* [Serverless framework](https://github.com/serverless-tencent/serverless-tencent-cloudfunction)
-> Serverless framework 是无服务器应用框架和生态系统，允许开发者将资源编排、自动伸缩、事件驱动等功能部署上云。该框架旨在简化开发和部署腾讯云函数的工作，而无需管理底层基础架构，帮助开发者通过优秀的 Serverless 计算服务迅速地构建应用。
 * [SCF CLI](https://github.com/TencentCloud/Serverless-cli)
 > SCF CLI 是腾讯云函数产品的命令行工具。通过该命令行工具，您可以方便地实现函数打包、部署、本地调试，也可以方便地生成腾讯云函数的项目并基于 demo 项目进一步的开发。
 SCF CLI 通过一个函数模板配置文件，完成函数及相关周边资源的描述，并基于配置文件实现本地代码及配置部署到云端的过程。
