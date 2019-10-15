@@ -13,9 +13,9 @@
 *   [基于 VS Code 开发 Hello World Web 服务](https://cloud.tencent.com/document/product/583/37511)
 *   [基于控制台创建基于 Node.js Web 框架（Express、Koa、Egg）的服务型云函数快速入门](https://cloud.tencent.com/document/product/583/37278)
 
-#### 开发者工具
+#### 工具和框架
 
-腾讯云 Serverless 团队提供了丰富的开发者工具帮助您使用云函数：
+腾讯云 Serverless 团队提供了丰富的工具和框架帮助您使用云函数：
 
 * [Serverless framework](https://github.com/serverless-tencent/serverless-tencent-cloudfunction)
 > Serverless framework 是无服务器应用框架和生态系统，允许开发者将资源编排、自动伸缩、事件驱动等功能部署上云。该框架旨在简化开发和部署腾讯云函数（Serverless Cloud Function, SCF）的工作，而无需管理底层基础架构，帮助开发者通过优秀的 Serverless 计算服务迅速地构建应用。
