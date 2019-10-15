@@ -6,7 +6,7 @@
 
 #### 快速入门
 
-您可通过如下示例进一步熟悉[云函数（Serverless Cloud Function，SCF）](https://cloud.tencent.com/product/scf)的使用流程：
+您可通过如下示例进一步熟悉云函数 SCF 的使用流程：
 
 *   [基于控制台开发 Hello World Web 服务](https://cloud.tencent.com/document/product/583/37509)
 *   [基于 CLI 开发 Hello World Web 服务](https://cloud.tencent.com/document/product/583/37510)（推荐）
