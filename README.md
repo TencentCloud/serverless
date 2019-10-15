@@ -1,43 +1,26 @@
 # serverless
 
-SCF CLI 是腾讯云无服务器云函数 SCF（Serverless Cloud Function）产品的命令行工具。通过 SCF 命令行工具，您可以方便地实现函数打包、部署、本地调试，也可以方便地生成云函数的项目并基于 demo 项目进一步的开发。
+[云函数（Serverless Cloud Function，SCF）](https://cloud.tencent.com/product/scf)是腾讯云为企业和开发者们提供的无服务器执行环境，帮助您在无需购买和管理服务器的情况下运行代码。您只需使用平台支持的语言编写核心代码并设置代码运行的条件，即可在腾讯云基础设施上弹性、安全地运行代码。云函数 SCF 是实时文件处理和数据处理等场景下理想的计算平台。
 
+## 快速入门
+
+快速入门可带领您体验完整的云函数使用流程，您可以根据如下示例进一步熟悉云函数以及开发者工具：
+
+*   [基于控制台开发 Hello World Web 服务](https://cloud.tencent.com/document/product/583/37509)
+*   [基于 CLI 开发 Hello World Web 服务](https://cloud.tencent.com/document/product/583/37510)（推荐）
+*   [基于 VS Code 开发 Hello World Web 服务](https://cloud.tencent.com/document/product/583/37511)
+*   [基于控制台创建基于 Node.js Web 框架（Express、Koa、Egg）的服务型云函数快速入门](https://cloud.tencent.com/document/product/583/37278)
+
+## 开发者工具
+
+腾讯云 Serverless 团队提供了丰富的开发者工具帮助您使用云函数：
+
+*   [云函数控制台](https://console.cloud.tencent.com/scf)
+*   [SCF CLI](https://cloud.tencent.com/document/product/583/33445)
+> SCF CLI 是腾讯云无服务器云函数 SCF（Serverless Cloud Function）产品的命令行工具。通过 SCF 命令行工具，您可以方便地实现函数打包、部署、本地调试，也可以方便地生成云函数的项目并基于 demo 项目进一步的开发。
 SCF CLI 通过一个函数模板配置文件，完成函数及相关周边资源的描述，并基于配置文件实现本地代码及配置部署到云端的过程。
-
-目前 SCF CLI 以开源形式发布，您可以在本项目中查看命令行源代码及更多帮助文档，并可以通过项目 issue 反馈问题。
-
-## 功能特性
-
-通过 SCF 命令行工具，您可以：
-
-*   快速初始化云函数项目
-*   在本地开发及测试你的云函数代码
-*   使用模拟的 COS、CMQ、Ckafka、API 网关等触发器事件来触发函数运行
-*   验证 TCSAM 模板配置文件
-*   打包、上传函数代码、创建函数及更新函数配置
-*   获取函数列表，删除指定函数
-
-## 运行环境
-
-SCF CLI 可以在 Windows、Linux、macOS 上运行。SCF CLI 基于 Python 开发完成，因此在安装及运行前需要系统中安装有 Python 环境，更多详细信息可参见 [安装与配置](https://cloud.tencent.com/document/product/583/33449)。
-
-## 开始使用
-
-您可以前往腾讯云官网查看 [SCF 快速入门](https://cloud.tencent.com/document/product/583/33446)
-
-#### 使用指导
-
-*   [安装与配置](https://cloud.tencent.com/document/product/583/33449)
-*   [初始化示例项目](https://cloud.tencent.com/document/product/583/33450)
-*   [打包部署](https://cloud.tencent.com/document/product/583/33451)
-*   [日志查看](https://cloud.tencent.com/document/product/583/36352)
-*   [本地调试 (native invoke)](https://cloud.tencent.com/document/product/583/35402)
-*   [本地调试 (local invoke)](https://cloud.tencent.com/document/product/583/35401)
-*   [测试模板](https://cloud.tencent.com/document/product/583/33453)
-*   [模板文件](https://cloud.tencent.com/document/product/583/33454)
-*   [TCSAM 说明](https://cloud.tencent.com/document/product/583/36198)
-*   [更新日志](https://cloud.tencent.com/document/product/583/36908)
-*   [常见问题 FAQ](https://cloud.tencent.com/document/product/583/33456)
+*   [SCF VS Code 插件](https://cloud.tencent.com/document/product/583/37511)
+> Tencent Serverless Toolkit for VS Code 是腾讯云 Serverless 产品的 VS Code（Visual Studio Code）IDE 的插件。该插件可以让您更好地在本地进行 Serverless 项目开发和代码调试，并且轻松将项目部署到云端。
 
 ## 系列文章 - 玩转 Serverless 
 
