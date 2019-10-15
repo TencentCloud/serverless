@@ -35,7 +35,7 @@ SCF CLI 通过一个函数模板配置文件，完成函数及相关周边资源
 
 - 查看[腾讯云函数 demo 库](https://github.com/tencentyun/scf-demo-repo)
 
-## 系列文章 - 玩转 Serverless 
+## 系列文章
 
 #### Serverless 技术专栏
 
