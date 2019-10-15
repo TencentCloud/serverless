@@ -20,14 +20,14 @@
 * [Serverless framework](https://github.com/serverless-tencent/serverless-tencent-cloudfunction)
 > Serverless framework 是无服务器应用框架和生态系统，允许开发者将资源编排、自动伸缩、事件驱动等功能部署上云。该框架旨在简化开发和部署腾讯云函数（Serverless Cloud Function, SCF）的工作，而无需管理底层基础架构，帮助开发者通过优秀的 Serverless 计算服务迅速地构建应用。
 * [Serverless CLI](https://github.com/tencentyun/scfcli)
-> SCF CLI 是腾讯云 Serverless 产品的命令行工具。通过 SCF 命令行工具，您可以方便地实现函数打包、部署、本地调试，也可以方便地生成云函数的项目并基于 demo 项目进一步的开发。
-SCF CLI 通过一个函数模板配置文件，完成函数及相关周边资源的描述，并基于配置文件实现本地代码及配置部署到云端的过程。
+> Serverless CLI 是腾讯云 Serverless 产品的命令行工具。通过 SCF 命令行工具，您可以方便地实现函数打包、部署、本地调试，也可以方便地生成云函数的项目并基于 demo 项目进一步的开发。
+Serverless CLI 通过一个函数模板配置文件，完成函数及相关周边资源的描述，并基于配置文件实现本地代码及配置部署到云端的过程。
 * [Serverless VS Code 插件](https://github.com/tencentyun/vscode-tencent-scf)
 > Tencent Serverless Toolkit for VS Code 是腾讯云 Serverless 产品的 VS Code（Visual Studio Code）IDE 的插件。该插件可以让您更好地在本地进行 Serverless 项目开发和代码调试，并且轻松将项目部署到云端。
 
 #### 更多示例
 
-- 查看[腾讯云 Serverless 产品 Demo 库](https://github.com/tencentyun/scf-demo-repo)
+- 查看[腾讯云 Serverless 产品 demo 库](https://github.com/tencentyun/scf-demo-repo)
 
 ## 系列文章 - 玩转 Serverless 
 
