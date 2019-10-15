@@ -2,16 +2,18 @@
 
 [云函数（Serverless Cloud Function，SCF）](https://cloud.tencent.com/product/scf)是腾讯云为企业和开发者们提供的无服务器执行环境，帮助您在无需购买和管理服务器的情况下运行代码。您只需使用平台支持的语言编写核心代码并设置代码运行的条件，即可在腾讯云基础设施上弹性、安全地运行代码。云函数 SCF 是实时文件处理和数据处理等场景下理想的计算平台。
 
-## 快速入门
+## 开始使用
 
-快速入门可带领您体验完整的云函数使用流程，您可以根据如下示例进一步熟悉云函数以及开发者工具：
+#### 快速入门
+
+您可通过如下示例进一步熟悉云函数的使用流程：
 
 *   [基于控制台开发 Hello World Web 服务](https://cloud.tencent.com/document/product/583/37509)
 *   [基于 CLI 开发 Hello World Web 服务](https://cloud.tencent.com/document/product/583/37510)（推荐）
 *   [基于 VS Code 开发 Hello World Web 服务](https://cloud.tencent.com/document/product/583/37511)
 *   [基于控制台创建基于 Node.js Web 框架（Express、Koa、Egg）的服务型云函数快速入门](https://cloud.tencent.com/document/product/583/37278)
 
-## 开发者工具
+#### 开发者工具
 
 腾讯云 Serverless 团队提供了丰富的开发者工具帮助您使用云函数：
 
@@ -21,6 +23,10 @@
 SCF CLI 通过一个函数模板配置文件，完成函数及相关周边资源的描述，并基于配置文件实现本地代码及配置部署到云端的过程。
 *   [SCF VS Code 插件](https://cloud.tencent.com/document/product/583/37511)
 > Tencent Serverless Toolkit for VS Code 是腾讯云 Serverless 产品的 VS Code（Visual Studio Code）IDE 的插件。该插件可以让您更好地在本地进行 Serverless 项目开发和代码调试，并且轻松将项目部署到云端。
+
+#### 更多示例
+
+查看[云函数 SCF Demo 代码库](https://github.com/tencentyun/scf-demo-repo)
 
 ## 系列文章 - 玩转 Serverless 
 
