@@ -2,11 +2,11 @@
 
 腾讯云 Severless 是腾讯云提供的安全稳定、管理简化、高效易用且低成本的无服务器产品平台。它通过多种 Serverless 产品组合，快速落地 Serverless 架构及应用，加速互联网和传统企业的业务迭代与升级，让您全面享受 Serverless 架构带来的弹性伸缩、秒级部署、按需付费、免运维等好处。 
 
-### [云函数 SCF](https://cloud.tencent.com/product/scf)
+#### [云函数 SCF](https://cloud.tencent.com/product/scf)
 
 云函数（Serverless Cloud Function，SCF）是腾讯云为企业和开发者们提供的无服务器执行环境，帮助您在无需购买和管理服务器的情况下运行代码。您只需使用平台支持的语言编写核心代码并设置代码运行的条件，即可在腾讯云基础设施上弹性、安全地运行代码。SCF 是实时文件处理和数据处理等场景下理想的计算平台。
 
-### [Serverless framework](https://github.com/serverless-tencent/serverless-tencent-cloudfunction)
+#### Serverless framework
 
 Serverless framework 是无服务器应用框架和生态系统，允许开发者将资源编排、自动伸缩、事件驱动等功能部署上云。该框架旨在简化开发和部署腾讯云函数的工作，而无需管理底层基础架构，帮助开发者通过优秀的 Serverless 计算服务迅速地构建应用。
 
