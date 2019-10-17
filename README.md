@@ -30,14 +30,25 @@ TSF Serverless（Tencent Service Framework Serverless）是腾讯云面向应用
 腾讯云 Serverless 团队提供了丰富的开发者工具帮助您使用云函数：
 
 * [SCF CLI](https://github.com/TencentCloud/Serverless-cli)
+
 > SCF CLI 是腾讯云函数产品的命令行工具。通过该命令行工具，您可以方便地实现函数打包、部署、本地调试，也可以方便地生成腾讯云函数的项目并基于 demo 项目进一步的开发。
 SCF CLI 通过一个函数模板配置文件，完成函数及相关周边资源的描述，并基于配置文件实现本地代码及配置部署到云端的过程。
+
 * [SCF VS Code 插件](https://cloud.tencent.com/document/product/583/38106)
+
 > Tencent Serverless Toolkit for VS Code 是腾讯云函数产品的 VS Code（Visual Studio Code）IDE 的插件。该插件可以让您更好地在本地进行 Serverless 项目开发和代码调试，并且轻松将项目部署到云端。
+
+* [Serverless-go-lib](https://github.com/TencentCloud/Serverless-go-lib)
+
+> 用于云函数 SCF GO 环境的库及工具
+
+* [Serverless-java-lib](https://github.com/TencentCloud/Serverless-java-lib)
+
+> 用于云函数 SCF Java 环境的库及工具
 
 #### 更多示例
 
-- 查看[腾讯云函数 demo 库](https://github.com/tencentyun/scf-demo-repo)
+- 查看[腾讯云函数 demo 库](https://github.com/TencentCloud/Serverless-examples)
 
 ## 系列文章
 
@@ -65,8 +76,8 @@ SCF CLI 通过一个函数模板配置文件，完成函数及相关周边资源
 - [「实践」云函数 + API，你也可以做个天气信息系统](https://zhuanlan.zhihu.com/p/83753850)
 - [「实践」如何定制业务告警功能](https://zhuanlan.zhihu.com/p/84709306)
 - [「实践」如何优雅地给网站图片加水印](https://zhuanlan.zhihu.com/p/85817369)
-- [「实践」“灰常”简单的车牌识别 API 制作](https://cloud.tencent.com/developer/article/1508505)
-- [「实践」全新命令行工具帮你快速部署云函数](https://cloud.tencent.com/developer/article/1509106)
+- [「实践」“灰常”简单的车牌识别 API 制作](https://zhuanlan.zhihu.com/p/86194163)
+- [「实践」全新命令行工具帮你快速部署云函数](https://zhuanlan.zhihu.com/p/87146209)
 - [云函数场景下的 DevOps 实践 - Jenkins 篇](https://cloud.tencent.com/developer/article/1461708)
 - [云函数场景下的 DevOps 实践 - CODING 企业版](https://cloud.tencent.com/developer/article/1467480)
 - [云函数场景下的 DevOps 实践 - 蓝盾](https://cloud.tencent.com/developer/article/1479998)
