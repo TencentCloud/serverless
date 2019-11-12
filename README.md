@@ -97,13 +97,14 @@ SCF CLI 通过一个函数模板配置文件，完成函数及相关周边资源
 
 #### Presentations
 
-- [「2018 ArchSummit 全球架构师峰会」让业务感知不到服务器的存在 - 基于弹性计算的无服务器化实践](https://cloud.tencent.com/developer/article/1449789)
-- [「K8S 云原生上海站」蓝鲸 DevOps 方案在游戏中的实现](https://cloud.tencent.com/developer/article/1449788)
-- [「Hello Serverless」做 Serverless 开发，你需要掌握什么样的技能？](https://cloud.tencent.com/developer/article/1449786)
-- [「Hello Serverless」从概念到实践，开发者如何更好地了解 Serverless](https://cloud.tencent.com/developer/article/1490971)
-- [「KubeCon 2019」无服务逐渐开始承载起企业核心业务](https://cloud.tencent.com/developer/article/1454650)
-- [「KubeCon 2019」腾讯云函数计算冷启动优化实践](https://cloud.tencent.com/developer/article/1461709)
+- [加速布局无服务器生态，腾讯云与Serverless.com达成全球战略合作](https://cloud.tencent.com/developer/article/1535579) ```New!```
 - [「KubeCon 2019」腾讯云函数访问 VPC 网络架构优化](https://cloud.tencent.com/developer/article/1461707)
+- [「KubeCon 2019」腾讯云函数计算冷启动优化实践](https://cloud.tencent.com/developer/article/1461709)
+- [「KubeCon 2019」无服务逐渐开始承载起企业核心业务](https://cloud.tencent.com/developer/article/1454650)
+- [「Hello Serverless」从概念到实践，开发者如何更好地了解 Serverless](https://cloud.tencent.com/developer/article/1490971)
+- [「Hello Serverless」做 Serverless 开发，你需要掌握什么样的技能？](https://cloud.tencent.com/developer/article/1449786)
+- [「K8S 云原生上海站」蓝鲸 DevOps 方案在游戏中的实现](https://cloud.tencent.com/developer/article/1449788)
+- [「2018 ArchSummit 全球架构师峰会」让业务感知不到服务器的存在 - 基于弹性计算的无服务器化实践](https://cloud.tencent.com/developer/article/1449789)
 
 #### 发布平台
 
