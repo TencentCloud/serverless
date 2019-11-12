@@ -6,7 +6,7 @@
 
 云函数（Serverless Cloud Function，SCF）是腾讯云为企业和开发者们提供的无服务器执行环境，帮助您在无需购买和管理服务器的情况下运行代码。您只需使用平台支持的语言编写核心代码并设置代码运行的条件，即可在腾讯云基础设施上弹性、安全地运行代码。SCF 是实时文件处理和数据处理等场景下理想的计算平台。
 
-#### [Serverless Framework](https://cloud.tencent.com/product/sf)```New!```
+#### [Serverless Framework](https://cloud.tencent.com/product/sf) ```New!```
 
 Serverless Framework 是业界非常受欢迎的无服务器应用框架，开发者无需关心底层资源即可部署完整可用的 serverless 应用架构。Serverless Framework 具有资源编排、自动伸缩、事件驱动等能力，覆盖编码-调试-测试-部署等全生命周期，帮助开发者通过联动云资源，迅速构建 serverless 应用。
 
@@ -48,8 +48,6 @@ SCF CLI 通过一个函数模板配置文件，完成函数及相关周边资源
 
 #### 更多示例
 
-- [腾讯云 Serverless 示例](https://github.com/TencentCloud/Serverless-demos)
-  - 查看贴近生产环境的 Serverless 应用示例，该库包括大数据、人工智能、监控告警、后台服务和小程序开发等众多门类，希望能给予您启发。
 - [腾讯云函数示例代码库](https://github.com/TencentCloud/Serverless-examples)：
   - 查看云函数 SCF 基础能力示例，您可以通过云函数 SCF 的基础能力，快速构建您的 Serverless 应用。
 
