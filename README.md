@@ -106,10 +106,14 @@ SCF CLI 通过一个函数模板配置文件，完成函数及相关周边资源
 - [「K8S 云原生上海站」蓝鲸 DevOps 方案在游戏中的实现](https://cloud.tencent.com/developer/article/1449788)
 - [「2018 ArchSummit 全球架构师峰会」让业务感知不到服务器的存在 - 基于弹性计算的无服务器化实践](https://cloud.tencent.com/developer/article/1449789)
 
+## Resources
+
 #### 发布平台
 
-此处做归档，发布平台：
 - [知乎](https://zhuanlan.zhihu.com/ServerlessGo)
 - [掘金](https://juejin.im/user/5d70b6dae51d4561fb04bfb9/posts)
 - [云＋社区](https://cloud.tencent.com/developer/user/1000057/articles)
 - 微信公众号：ServerlessCloudNative
+
+#### 推荐书籍：
+- [Serverless架构：从原理、设计到项目实战](https://item.jd.com/12592747.html#none)
