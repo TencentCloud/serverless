@@ -59,6 +59,7 @@ SCF CLI 通过一个函数模板配置文件，完成函数及相关周边资源
 - [Serverless 的运行原理与组件架构](https://zhuanlan.zhihu.com/p/79214097)
 - [Serverless 的开发者工具建设](https://zhuanlan.zhihu.com/p/81176864)
 - [一图读懂无服务器云函数](https://cloud.tencent.com/developer/article/1450023)
+- [一图读懂 TSF Serverless：简化开发，面运维](https://zhuanlan.zhihu.com/p/92669505)
 - [下一代无服务器的发展形态：Serverless 2.0](https://cloud.tencent.com/developer/article/1454649)
 - [Serverless - 前端 3.0 时代](https://cloud.tencent.com/developer/article/1513725)
 - [NGW，前端新技术赛场：Serverless SSR 技术内幕](https://zhuanlan.zhihu.com/p/92112490)
