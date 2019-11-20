@@ -118,5 +118,5 @@ SCF CLI 通过一个函数模板配置文件，完成函数及相关周边资源
 - 微信公众号：ServerlessCloudNative
 
 #### 推荐书籍：
-- [《Serverless 架构：从原理、设计到项目实战》](https://u.jd.com/y14915) ```new!```
+- [《Serverless 架构：从原理、设计到项目实战》](https://item.jd.com/12592747.html) ```new!```
 > 国内 Serverless 实践首著，腾讯云 Serverless 出品。
