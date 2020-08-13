@@ -48,7 +48,7 @@ SCF CLI 通过一个函数模板配置文件，完成函数及相关周边资源
 
 #### 更多示例
 
-- [腾讯云函数示例代码库](https://github.com/TencentCloud/Serverless-examples)
+- [腾讯云函数示例代码库](https://github.com/tencentyun/scf-demo-repo)
 > 查看云函数 SCF 基础能力示例，您可以由此了解云函数 SCF 的基础能力，快速构建您的 Serverless 应用。
 
 ## 系列文章
@@ -115,7 +115,7 @@ SCF CLI 通过一个函数模板配置文件，完成函数及相关周边资源
 - [知乎](https://zhuanlan.zhihu.com/ServerlessGo)
 - [掘金](https://juejin.im/user/5d70b6dae51d4561fb04bfb9/posts)
 - [云＋社区](https://cloud.tencent.com/developer/user/1000057/articles)
-- 微信公众号：ServerlessCloudNative
+- 微信公众号：TencentServerless
 
 #### 推荐书籍：
 - [《Serverless 架构：从原理、设计到项目实战》](https://item.jd.com/12592747.html) ```new!```
